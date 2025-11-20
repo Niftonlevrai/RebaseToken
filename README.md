@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 #  Rebase Token
 1. Protocol that allows user to deposit into a vault and in return recieve rebase tokens that represent their underlying balance
 
